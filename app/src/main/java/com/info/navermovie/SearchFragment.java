@@ -30,8 +30,8 @@ public class SearchFragment extends Fragment {
     RecyclerView recyclerView;
     static RequestQueue requestQueue;
 
-    String clientId = "dU1Co2_NJdZjkY_alB_W";
-    String clientSecret = "lVCPlysrY1";
+    String clientId = "";
+    String clientSecret = "";
     String uriString = "content://com.info.navermovie";
 
     @Override
